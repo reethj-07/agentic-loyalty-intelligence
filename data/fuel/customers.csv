@@ -1,0 +1,4 @@
+customer_id,segment,loyalty_tier,join_date,country,is_high_value,consent_marketing
+F001,affluent,gold,2021-05-10,Morocco,true,true
+F002,mass,silver,2023-03-12,Morocco,false,true
+

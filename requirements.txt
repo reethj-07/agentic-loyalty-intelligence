@@ -1,0 +1,6 @@
+pandas
+pydantic
+groq
+langgraph
+python-dotenv
+streamlit

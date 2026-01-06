@@ -1,0 +1,4 @@
+feedback_id,customer_id,source,feedback_date,feedback_text,sentiment_label,friction_type
+F001,C001,support,2024-11-02,"My points expired before I could redeem them",negative,expiry
+F002,C002,app_review,2024-11-05,"Offers are fine",neutral,relevance
+F003,C003,support,2024-11-10,"Love the rewards program",positive,none

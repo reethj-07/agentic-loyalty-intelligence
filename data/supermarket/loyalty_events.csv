@@ -1,0 +1,6 @@
+event_id,customer_id,event_type,event_date,spend_amount,points_earned,points_redeemed,merchant_category,channel
+E001,C001,transaction,2024-10-01,1500,150,0,grocery,card
+E002,C001,transaction,2024-10-15,1200,120,0,grocery,card
+E003,C001,expiry,2024-11-01,0,0,200,rewards,system
+E004,C002,transaction,2024-10-05,400,40,0,grocery,card
+E005,C003,transaction,2024-09-10,3000,300,0,grocery,card

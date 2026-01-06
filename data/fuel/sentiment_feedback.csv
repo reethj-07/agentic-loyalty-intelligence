@@ -1,0 +1,3 @@
+feedback_id,customer_id,source,feedback_date,feedback_text,sentiment_label,friction_type
+FF001,F001,support,2024-11-02,"Fuel prices increased too much",negative,price
+FF002,F002,app_review,2024-11-06,"Service is okay",neutral,none

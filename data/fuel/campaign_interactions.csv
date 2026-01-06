@@ -1,0 +1,3 @@
+campaign_id,customer_id,campaign_type,sent_date,opened,clicked,redeemed,campaign_channel
+FC001,F001,cashback,2024-10-18,true,false,false,push
+FC002,F002,points,2024-10-22,true,true,true,email

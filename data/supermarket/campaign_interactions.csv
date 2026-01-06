@@ -1,0 +1,4 @@
+campaign_id,customer_id,campaign_type,sent_date,opened,clicked,redeemed,campaign_channel
+CMP001,C001,cashback,2024-10-20,true,false,false,push
+CMP002,C002,points,2024-10-25,true,true,true,email
+CMP003,C003,recognition,2024-10-30,false,false,false,in-app
